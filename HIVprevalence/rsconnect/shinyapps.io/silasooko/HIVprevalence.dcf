@@ -1,0 +1,12 @@
+name: HIVprevalence
+title: HIVprevalence
+username: silasooko
+account: silasooko
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11579674
+bundleId: 8414210
+url: https://silasooko.shinyapps.io/HIVprevalence/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
